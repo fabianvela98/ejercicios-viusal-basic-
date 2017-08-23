@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\bin\Debug\suma heterogeneos con switch.exe.config
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\obj\Debug\suma heterogeneos con switch.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\obj\Debug\suma_heterogeneos_con_switch.Form1.resources
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\obj\Debug\suma_heterogeneos_con_switch.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\obj\Debug\suma heterogeneos con switch.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\bin\Debug\suma heterogeneos con switch.exe
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\bin\Debug\suma heterogeneos con switch.pdb
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\obj\Debug\suma heterogeneos con switch.exe
+C:\Users\APRENDIZ\Desktop\suma heterogeneos con switch\suma heterogeneos con switch\obj\Debug\suma heterogeneos con switch.pdb

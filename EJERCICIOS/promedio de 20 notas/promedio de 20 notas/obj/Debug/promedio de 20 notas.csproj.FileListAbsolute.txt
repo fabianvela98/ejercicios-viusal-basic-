@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\bin\Debug\promedio de 20 notas.exe.config
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\bin\Debug\promedio de 20 notas.exe
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\bin\Debug\promedio de 20 notas.pdb
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\obj\Debug\promedio de 20 notas.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\obj\Debug\promedio_de_20_notas.Form1.resources
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\obj\Debug\promedio_de_20_notas.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\obj\Debug\promedio de 20 notas.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\obj\Debug\promedio de 20 notas.exe
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas\promedio de 20 notas\obj\Debug\promedio de 20 notas.pdb

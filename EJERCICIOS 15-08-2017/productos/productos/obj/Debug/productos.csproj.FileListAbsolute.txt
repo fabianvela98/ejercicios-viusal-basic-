@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\bin\Debug\productos.exe.config
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\obj\Debug\productos.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\obj\Debug\productos.Form1.resources
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\obj\Debug\productos.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\obj\Debug\productos.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\bin\Debug\productos.exe
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\bin\Debug\productos.pdb
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\obj\Debug\productos.exe
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\productos\productos\obj\Debug\productos.pdb

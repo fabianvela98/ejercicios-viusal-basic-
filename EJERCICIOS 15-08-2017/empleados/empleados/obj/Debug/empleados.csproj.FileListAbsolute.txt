@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\bin\Debug\empleados.exe.config
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\bin\Debug\empleados.exe
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\bin\Debug\empleados.pdb
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\obj\Debug\empleados.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\obj\Debug\empleados.Form1.resources
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\obj\Debug\empleados.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\obj\Debug\empleados.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\obj\Debug\empleados.exe
+C:\Users\APRENDIZ\Desktop\EJERCICIOS 15-08-2017\empleados\empleados\obj\Debug\empleados.pdb

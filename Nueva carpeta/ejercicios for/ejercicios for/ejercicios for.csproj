@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BF34ECD7-2EA3-4604-AB15-58E984B2B3F2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ejercicios_for</RootNamespace>
+    <AssemblyName>ejercicios for</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ALMACEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALMACEN.Designer.cs">
+      <DependentUpon>ALMACEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ARTICULO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ARTICULO.Designer.cs">
+      <DependentUpon>ARTICULO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CALIFICACIONES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CALIFICACIONES.Designer.cs">
+      <DependentUpon>CALIFICACIONES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CAMISAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CAMISAS.Designer.cs">
+      <DependentUpon>CAMISAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPRESA DE FABRICA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPRESA DE FABRICA.Designer.cs">
+      <DependentUpon>EMPRESA DE FABRICA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESCUELA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESCUELA.Designer.cs">
+      <DependentUpon>ESCUELA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTADO.Designer.cs">
+      <DependentUpon>ESTADO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESTATURA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESTATURA.Designer.cs">
+      <DependentUpon>ESTATURA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INTERESES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INTERESES.Designer.cs">
+      <DependentUpon>INTERESES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LLANTERA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LLANTERA.Designer.cs">
+      <DependentUpon>LLANTERA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SEGUROS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEGUROS.Designer.cs">
+      <DependentUpon>SEGUROS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SUPERMERCADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUPERMERCADO.Designer.cs">
+      <DependentUpon>SUPERMERCADO.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ALMACEN.resx">
+      <DependentUpon>ALMACEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ARTICULO.resx">
+      <DependentUpon>ARTICULO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CALIFICACIONES.resx">
+      <DependentUpon>CALIFICACIONES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CAMISAS.resx">
+      <DependentUpon>CAMISAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPRESA DE FABRICA.resx">
+      <DependentUpon>EMPRESA DE FABRICA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESCUELA.resx">
+      <DependentUpon>ESCUELA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTADO.resx">
+      <DependentUpon>ESTADO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESTATURA.resx">
+      <DependentUpon>ESTATURA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INTERESES.resx">
+      <DependentUpon>INTERESES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LLANTERA.resx">
+      <DependentUpon>LLANTERA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SEGUROS.resx">
+      <DependentUpon>SEGUROS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUPERMERCADO.resx">
+      <DependentUpon>SUPERMERCADO.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lighthouse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paisajes de nieve %2819%29p.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lighthouse1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

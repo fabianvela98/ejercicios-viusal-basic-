@@ -1,0 +1,8 @@
+C:\Users\APRENDIZ\Desktop\ejercicios\suma de 30\suma de 30\bin\Debug\suma de 30.exe.config
+C:\Users\APRENDIZ\Desktop\ejercicios\suma de 30\suma de 30\bin\Debug\suma de 30.exe
+C:\Users\APRENDIZ\Desktop\ejercicios\suma de 30\suma de 30\bin\Debug\suma de 30.pdb
+C:\Users\APRENDIZ\Desktop\ejercicios\suma de 30\suma de 30\obj\Debug\suma_de_30.Form1.resources
+C:\Users\APRENDIZ\Desktop\ejercicios\suma de 30\suma de 30\obj\Debug\suma_de_30.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\ejercicios\suma de 30\suma de 30\obj\Debug\suma de 30.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\ejercicios\suma de 30\suma de 30\obj\Debug\suma de 30.exe
+C:\Users\APRENDIZ\Desktop\ejercicios\suma de 30\suma de 30\obj\Debug\suma de 30.pdb

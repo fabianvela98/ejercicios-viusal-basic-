@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\bin\Debug\promedio de 20 notas ciclo for.exe.config
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\obj\Debug\promedio de 20 notas ciclo for.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\obj\Debug\promedio_de_20_notas_ciclo_for.Form1.resources
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\obj\Debug\promedio_de_20_notas_ciclo_for.Properties.Resources.resources
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\obj\Debug\promedio de 20 notas ciclo for.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\bin\Debug\promedio de 20 notas ciclo for.exe
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\bin\Debug\promedio de 20 notas ciclo for.pdb
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\obj\Debug\promedio de 20 notas ciclo for.exe
+C:\Users\APRENDIZ\Desktop\ejercicios\promedio de 20 notas ciclo for\promedio de 20 notas ciclo for\obj\Debug\promedio de 20 notas ciclo for.pdb
